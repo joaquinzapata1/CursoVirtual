@@ -3,7 +3,7 @@ ReactJS Project
 
 ## Built with ReactJS and deployed to https://joaquinzapata1.github.io/CursoVirtual/
 
-### To install it locally, you should ´npm install´ and then ´npm start´
+### To install it locally, you should `npm install` and then `npm start`.
 
 Requirements are listed here:
 
