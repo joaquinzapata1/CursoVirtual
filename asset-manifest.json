@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CursoVirtual/static/css/main.b0594376.chunk.css",
+    "main.js": "/CursoVirtual/static/js/main.cec7cbfc.chunk.js",
+    "main.js.map": "/CursoVirtual/static/js/main.cec7cbfc.chunk.js.map",
+    "runtime-main.js": "/CursoVirtual/static/js/runtime-main.9990a04d.js",
+    "runtime-main.js.map": "/CursoVirtual/static/js/runtime-main.9990a04d.js.map",
+    "static/js/2.3e714236.chunk.js": "/CursoVirtual/static/js/2.3e714236.chunk.js",
+    "static/js/2.3e714236.chunk.js.map": "/CursoVirtual/static/js/2.3e714236.chunk.js.map",
+    "index.html": "/CursoVirtual/index.html",
+    "precache-manifest.9f01a9bf5700aeb775d1a063b9ccd00c.js": "/CursoVirtual/precache-manifest.9f01a9bf5700aeb775d1a063b9ccd00c.js",
+    "service-worker.js": "/CursoVirtual/service-worker.js",
+    "static/css/main.b0594376.chunk.css.map": "/CursoVirtual/static/css/main.b0594376.chunk.css.map",
+    "static/media/tutor-circ.png": "/CursoVirtual/static/media/tutor-circ.15c73074.png",
+    "static/media/tutor.png": "/CursoVirtual/static/media/tutor.57c5ea27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9990a04d.js",
+    "static/js/2.3e714236.chunk.js",
+    "static/css/main.b0594376.chunk.css",
+    "static/js/main.cec7cbfc.chunk.js"
+  ]
+}
