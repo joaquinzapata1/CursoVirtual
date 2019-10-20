@@ -1,0 +1,56 @@
+/*iPhone 6, 7, 8 Plus in portrait*/
+@media only screen and (min-width : 414px) and (max-width : 736px) and (orientation : portrait) {
+     p.welcome {
+         font-size: 1.25em;
+     }
+
+     .speech-bubble {
+        font-size: 1em;
+        line-height: 1.3;
+    }
+
+    .tutor-avatar img {
+        max-height: 25vmin;
+    }
+
+    .speech-bubble.bubble-right:after, .speech-bubble.bubble-left:after {
+        border: none;
+    }
+
+    .welcome {
+        font-size: 1.3em;
+    }
+}
+/*iPhone 6, 7, 8 Plus in landscape*/
+@media only screen and (min-width : 414px) and (max-width : 736px) and (orientation : landscape) { 
+    .welcome {
+        font-size: 1.3em;
+    }
+    .tutor-avatar img {
+        max-height: 25vmin;
+    }
+    .speech-bubble.bubble-right:after, .speech-bubble.bubble-left:after {
+        border: none;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .speech-bubble {
+        font-size: 1em;
+    }
+    h5 span.d-block {
+        font-size: 1rem;
+    }
+    .ed-cards .card-body {
+        padding: 0.4rem;
+        font-size: 0.86em;
+    }
+    .footer .pagination .page-link {
+        padding: .3rem;
+    }
+    .tutor-avatar img {
+        max-height: 20vh;
+    }
+ }
+
