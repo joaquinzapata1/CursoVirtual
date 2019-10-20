@@ -1,6 +1,7 @@
 {
   "name": "curso-virtual",
   "version": "0.1.0",
+  "homepage": "http://joaquinzapata1.github.io/CursoVirtual",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
